@@ -11,8 +11,8 @@
   inputs.src-treesitter_ocaml-master.ref   = "refs/heads/master";
   inputs.src-treesitter_ocaml-master.owner = "genotrance";
   inputs.src-treesitter_ocaml-master.repo  = "nimtreesitter";
-  inputs.src-treesitter_ocaml-master.dir   = "treesitter_ocaml";
-  inputs.src-treesitter_ocaml-master.type  = "github";
+    inputs.src-treesitter_ocaml-master.dir   = "treesitter_ocaml";
+inputs.src-treesitter_ocaml-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
   inputs."nimgen".ref   = "master";
